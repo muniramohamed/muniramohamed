@@ -4,3 +4,12 @@ weight_kg=90
 bmi = weight_kg / (height_m ** 2)
 print (bmi)
 22.5
+if bmi < 25:
+    print (name)
+    print ("is not overweight")
+else:
+    print(name)
+    print ("is overweight")
+    
+YK
+is not overweight
